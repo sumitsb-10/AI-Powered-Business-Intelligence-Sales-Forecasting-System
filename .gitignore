@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# Microsoft Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Bob temp files
+.bob/
